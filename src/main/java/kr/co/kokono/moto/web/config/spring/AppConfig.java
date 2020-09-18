@@ -1,4 +1,4 @@
-package kr.co.kokono.moto.cli.config;
+package kr.co.kokono.moto.web.config.spring;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

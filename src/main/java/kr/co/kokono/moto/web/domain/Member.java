@@ -1,4 +1,4 @@
-package kr.co.kokono.moto.cli.domain;
+package kr.co.kokono.moto.web.domain;
 
 import lombok.Getter;
 import lombok.ToString;
